@@ -1,0 +1,22 @@
+artifact_path: file:///D:/FAI/Third%20Year%20ED/Algorithms/EcoSort-RecycleIR/mlartifacts/models/m-5663dddb23194c2d942a26213010a4af/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.13.14
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.21.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.17.1
+model_id: m-5663dddb23194c2d942a26213010a4af
+model_size_bytes: 83785250
+model_uuid: m-5663dddb23194c2d942a26213010a4af
+prompts: null
+run_id: 28040a518e0242f3ade63abe8853a12f
+utc_time_created: '2026-10-15 21:07:29.169354'

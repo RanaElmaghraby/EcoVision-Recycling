@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local databases and tracking
+mlflow.db
+mlartifacts/
+
+# Test photos and local media
+photo for test/
+
+# IDE specific files
+.vscode/
+.DS_Store

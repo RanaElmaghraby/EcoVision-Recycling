@@ -1,0 +1,92 @@
+{
+    "plastic": {
+        "title": "Plastic Waste",
+        "actions": [
+            "Separate the plastic item from other waste.",
+            "Empty and rinse the container when appropriate.",
+            "Check the resin identification code and local recycling guidelines."
+        ],
+        "warning": "The Plastic class alone cannot identify the exact resin type, such as PET or HDPE, or guarantee local recyclability."
+    },
+    "paper": {
+        "title": "Paper Waste",
+        "actions": [
+            "Keep paper clean and dry.",
+            "Separate paper contaminated with food, oil, or other substances.",
+            "Check which paper types are accepted by your local recycling facility."
+        ],
+        "warning": "Wet or heavily contaminated paper may not be suitable for recycling."
+    },
+    "cardboard": {
+        "title": "Cardboard Waste",
+        "actions": [
+            "Flatten cardboard boxes to reduce storage and transportation space.",
+            "Remove food residue and non-paper components when possible.",
+            "Take the cardboard to a collection point that accepts it."
+        ],
+        "warning": "Grease-contaminated cardboard may not be accepted for recycling."
+    },
+    "glass": {
+        "title": "Glass Waste",
+        "actions": [
+            "Separate glass items from other waste.",
+            "Empty containers safely when appropriate.",
+            "Use a designated glass collection bin if available."
+        ],
+        "warning": "Never handle broken glass with bare hands. Follow local safety guidelines."
+    },
+    "metal": {
+        "title": "Metal Waste",
+        "actions": [
+            "Separate metal items from other waste.",
+            "Empty and clean containers when appropriate.",
+            "Check whether your local recycling facility accepts the specific metal."
+        ],
+        "warning": "Do not handle pressurized containers or containers holding hazardous substances."
+    },
+    "battery": {
+        "title": "Used Battery",
+        "actions": [
+            "Keep the battery separate from ordinary household waste.",
+            "Find a designated battery collection or recycling point.",
+            "Follow the collection facility's instructions for safe handling and transport."
+        ],
+        "warning": "Do not puncture, burn, or place batteries in ordinary recycling bins. Damaged batteries may require special handling."
+    },
+    "biological": {
+        "title": "Organic Waste",
+        "actions": [
+            "Separate food scraps and other organic waste from recyclable materials.",
+            "Check whether a local composting program is available.",
+            "Follow local guidelines for acceptable compostable materials."
+        ],
+        "warning": "Not all organic waste is suitable for every composting system."
+    },
+    "clothes": {
+        "title": "Used Clothing",
+        "actions": [
+            "Donate or reuse clothing that is still in good condition.",
+            "Separate damaged textiles and look for textile recycling programs.",
+            "Check the collection program's accepted materials."
+        ],
+        "warning": "Not all textiles can be recycled through standard collection programs."
+    },
+    "shoes": {
+        "title": "Used Shoes",
+        "actions": [
+            "Donate or reuse shoes that are still wearable.",
+            "Look for collection programs that accept used footwear.",
+            "Check whether the program accepts damaged shoes and mixed materials."
+        ],
+        "warning": "Recycling options depend on the shoe's materials and the receiving facility."
+    },
+    "trash": {
+        "title": "Unclassified or Mixed Waste",
+        "actions": [
+            "Inspect the item for material labels or recycling symbols.",
+            "Identify its material before deciding how to dispose of it.",
+            "Follow local waste disposal guidelines if the material cannot be identified."
+        ],
+        "warning": "The Trash prediction does not necessarily mean the item is non-recyclable. Further inspection may be needed."
+    }
+}
